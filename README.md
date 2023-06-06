@@ -1,7 +1,7 @@
 ### Hi, I'm Malik :wave:
-![Red Modern Programming YouTube Thumbnail](https://github.com/malikkali14/malikkali14/assets/126530790/247a1fe5-01a9-4237-87c6-3ee58fa4382f)
 
-<!--
+<!--[Red Modern Programming YouTube Thumbnail.pdf](https://github.com/malikkali14/malikkali14/files/11666946/Red.Modern.Programming.YouTube.Thumbnail.pdf)
+
 **malikkali14/malikkali14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
