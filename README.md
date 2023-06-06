@@ -1,6 +1,6 @@
 ### Hi, I'm Malik :wave:
 
-<!--[Red Modern Programming YouTube Thumbnail.pdf](https://github.com/malikkali14/malikkali14/files/11666946/Red.Modern.Programming.YouTube.Thumbnail.pdf)
+![Red Modern Programming YouTube Thumbnail-1](https://github.com/malikkali14/malikkali14/assets/126530790/2b67a27e-96b2-4525-a72a-8d3153fce229)
 
 **malikkali14/malikkali14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
