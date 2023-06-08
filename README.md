@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Malik 👋 💻
+
 <img width="1834" alt="Make your READMEreadme" src="https://github.com/malikkali14/malikkali14/assets/126530790/c5efb83a-f9c5-4f70-8472-5c50459b060a">
 
 
