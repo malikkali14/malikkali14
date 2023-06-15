@@ -5,8 +5,8 @@
 
 
 
-**Hello World!** 👋
-<br></br>
+<h1>**Hello World!**</h1> 👋
+
 
 Welcome to my GitHub! On here, you'll find my ongoing journey from a Business Technology Management student to an aspiring tech enthusiast. This is where I document my learning, build interesting projects, and work towards becoming an adept programmer.
 
