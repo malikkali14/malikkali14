@@ -5,7 +5,9 @@
 
 
 
-Hello World! 👋
+**Hello World!** 👋
+<br></br>
+
 Welcome to my GitHub! On here, you'll find my ongoing journey from a Business Technology Management student to an aspiring tech enthusiast. This is where I document my learning, build interesting projects, and work towards becoming an adept programmer.
 
 🎓 I'm currently in my third year, studying Bachelor of Commerce with a specialization in Business Technology Management. This unique blend of business and technology education is equipping me with an interesting perspective on how tech can solve real world business problems.
