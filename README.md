@@ -8,7 +8,7 @@
 
 Welcome to my GitHub! On here, you'll find my ongoing journey from a Business Technology Management student to an aspiring tech enthusiast. This is where I document my learning, build interesting projects, and work towards becoming an adept programmer.
 
-🎓 I'm currently in my third year, studying Bachelor of Commerce with a specialization in Business Technology Management. This unique blend of business and technology education is equipping me with an interesting perspective on how tech can solve real world business problems.
+🎓 I'm currently in my fourth year, studying Bachelor of Commerce with a specialization in Business Technology Management. This unique blend of business and technology education is equipping me with an interesting perspective on how tech can solve real world business problems.
 
 💻 My passion for programming is coupled with a dream to work in a high-end tech firm, hopefully in a programming or project management role. I believe that the synergy between my business knowledge and my technical skills can bring a unique perspective to the field.
 
