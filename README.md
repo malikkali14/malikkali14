@@ -22,7 +22,7 @@ Welcome to my GitHub! On here, you'll find my ongoing journey from a Business Te
 
 🌱 I'm currently learning more about artificial intelligence and machine learning, and exploring how they can be integrated into business solutions.
 
-👨‍💻 Some of my favorite tech tools are Python, Java, SQL, and R.
+👨‍💻 Some of my favorite tech tools are Python, JavaScript, Java, SQL, and R.
 
 Thank you for visiting my GitHub profile! Don't forget to check out my projects and feel free to leave some feedback.
 
